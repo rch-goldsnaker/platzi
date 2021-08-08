@@ -1,6 +1,3 @@
-hola este es un test para git
+hola este es un test
 
-agregando una linea mas
-
-se agrega una linea mas
-
+cambio con checkout
